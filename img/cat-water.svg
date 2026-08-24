@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2ECE2"/>
+      <stop offset="1" stop-color="#E6DCCB"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bg)"/>
+  <ellipse cx="185" cy="344" rx="160" ry="20" fill="#2B2824" opacity="0.08"/>
+  <ellipse cx="450" cy="344" rx="115" ry="18" fill="#2B2824" opacity="0.08"/>
+  <!-- pipe stack (end view) -->
+  <g>
+    <circle cx="110" cy="300" r="40" fill="#3B6EA8"/><circle cx="110" cy="300" r="26" fill="#EAF1F8"/><circle cx="110" cy="300" r="26" fill="#2B4E77" opacity="0.15"/>
+    <circle cx="190" cy="300" r="40" fill="#4478B4"/><circle cx="190" cy="300" r="26" fill="#EAF1F8"/><circle cx="190" cy="300" r="26" fill="#2B4E77" opacity="0.15"/>
+    <circle cx="270" cy="300" r="40" fill="#3B6EA8"/><circle cx="270" cy="300" r="26" fill="#EAF1F8"/><circle cx="270" cy="300" r="26" fill="#2B4E77" opacity="0.15"/>
+    <circle cx="150" cy="236" r="40" fill="#4E82BE"/><circle cx="150" cy="236" r="26" fill="#EDF3FA"/><circle cx="150" cy="236" r="26" fill="#2B4E77" opacity="0.12"/>
+    <circle cx="230" cy="236" r="40" fill="#4478B4"/><circle cx="230" cy="236" r="26" fill="#EDF3FA"/><circle cx="230" cy="236" r="26" fill="#2B4E77" opacity="0.12"/>
+    <circle cx="190" cy="172" r="40" fill="#5B8BC4"/><circle cx="190" cy="172" r="26" fill="#F0F5FB"/><circle cx="190" cy="172" r="26" fill="#2B4E77" opacity="0.10"/>
+  </g>
+  <!-- elbow fitting -->
+  <g>
+    <rect x="380" y="180" width="64" height="150" rx="10" fill="#5B8BC4"/>
+    <rect x="380" y="266" width="150" height="64" rx="10" fill="#5B8BC4"/>
+    <rect x="372" y="168" width="80" height="34" rx="10" fill="#34619B"/>
+    <rect x="498" y="258" width="34" height="80" rx="10" fill="#34619B"/>
+    <rect x="392" y="206" width="14" height="90" rx="7" fill="#7FA6D2" opacity="0.7"/>
+  </g>
+</svg>

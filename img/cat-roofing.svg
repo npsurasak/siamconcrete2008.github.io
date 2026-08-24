@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2ECE2"/>
+      <stop offset="1" stop-color="#E6DCCB"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bg)"/>
+  <ellipse cx="300" cy="344" rx="220" ry="22" fill="#2B2824" opacity="0.08"/>
+  <!-- back sheet -->
+  <g transform="translate(120 84) skewX(-10)">
+    <rect x="0" y="0" width="400" height="200" rx="6" fill="#8CA3B8"/>
+    <rect x="24" y="0" width="22" height="200" fill="#7C93A8"/>
+    <rect x="86" y="0" width="22" height="200" fill="#7C93A8"/>
+    <rect x="148" y="0" width="22" height="200" fill="#7C93A8"/>
+    <rect x="210" y="0" width="22" height="200" fill="#7C93A8"/>
+    <rect x="272" y="0" width="22" height="200" fill="#7C93A8"/>
+    <rect x="334" y="0" width="22" height="200" fill="#7C93A8"/>
+  </g>
+  <!-- front sheet -->
+  <g transform="translate(96 132) skewX(-10)">
+    <rect x="0" y="0" width="400" height="200" rx="6" fill="#A9BECF"/>
+    <rect x="24" y="0" width="22" height="200" fill="#96ACBF"/>
+    <rect x="86" y="0" width="22" height="200" fill="#96ACBF"/>
+    <rect x="148" y="0" width="22" height="200" fill="#96ACBF"/>
+    <rect x="210" y="0" width="22" height="200" fill="#96ACBF"/>
+    <rect x="272" y="0" width="22" height="200" fill="#96ACBF"/>
+    <rect x="334" y="0" width="22" height="200" fill="#96ACBF"/>
+    <rect x="0" y="0" width="400" height="14" rx="6" fill="#C0D1DF"/>
+  </g>
+</svg>

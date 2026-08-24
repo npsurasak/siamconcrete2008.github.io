@@ -1,17 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://siamconcrete2008.com/</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/about.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/products.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/contact.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/services.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/gallery.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/promotion.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/products/cement-kantharalak.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/products/steel-kantharalak.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/products/lightweight-brick-kantharalak.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/products/pvc-pipe-kantharalak.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/products/roofing-kantharalak.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/products/sand-stone-kantharalak.html</loc><lastmod>2026-07-07</lastmod></url>
-  <url><loc>https://siamconcrete2008.com/services/delivery-kantharalak.html</loc><lastmod>2026-07-07</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://siamconcrete2008.com/</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/index.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/products.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/services.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/gallery.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/gallery.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/gallery.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/promotion.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/promotion.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/promotion.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/about.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/contact.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/faq.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/index.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/en/products.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/products.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/en/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/services.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/en/gallery.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/gallery.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/gallery.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/en/promotion.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/promotion.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/promotion.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/about.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/contact.html"/>
+  </url>
+  <url>
+    <loc>https://siamconcrete2008.com/en/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="th" href="https://siamconcrete2008.com/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://siamconcrete2008.com/en/faq.html"/>
+  </url>
 </urlset>
